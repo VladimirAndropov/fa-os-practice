@@ -8,23 +8,24 @@
 19. [конспект][Cloud] - аренда сервера, запуск приложения, nginx, systemd
 20. [конспект][FS] - pthreads
 21. [конспект][FS] - mutex
+22. [[конспект](22sem-fs/README.md)][C++] - std::thread, std::async, std::future, std::promise, std::lock_guard
 
 ### Operating Systems and System Programming
 
-1. [Operating system architecture. Linux.](part2os/01_OS_Architecture/lecture.md)
-1. [C programming language. GNU tools (GCC, Make).](part2os/02_C/lecture.md)
-1. [System calls.](part2os/03_SystemCalls/lecture.md)
-1. [Linking and loading. Libraries and binary file format.](part2os/04_Linking/lecture.md)
-1. [Strings and regular expressions.](part2os/05_Strings/lecture.md)
-1. [Processes and threads.](part2os/06_Processes/lecture.md)
-1. [I/O and files.](part2os/07_Synch/lecture.md)
-1. [Synchronization.](part2os/08_IPC/lecture.md)
-1. [Inter-process communication.](part2os/09_IPC/lecture.md)
-1. [Users, groups, and permissions.](part2os/10_Permissions/lecture.md)
-1. [Virtual Machines.](part2os/11_VM/lecture.md)
-1. [Networking.](part2os/12_Networking/lecture.md)
-1. [Sockets.](part2os/13_Sockets/lecture.md)
-1. [High-level Languages and Operating System.](part2os/14_Python/lecture.md)
-1. [Workshop: Linux Kernel Modules](part2os/XX_Linux_Modules/lecture.md)
+1. [Operating system architecture. Linux.](lectures/01_OS_Architecture/lecture.md)
+1. [C programming language. GNU tools (GCC, Make).](lectures/02_C/lecture.md)
+1. [System calls.](lectures/03_SystemCalls/lecture.md)
+1. [Linking and loading. Libraries and binary file format.](lectures/04_Linking/lecture.md)
+1. [Strings and regular expressions.](lectures/05_Strings/lecture.md)
+1. [Processes and threads.](lectures/06_Processes/lecture.md)
+1. [I/O and files.](lectures/07_Synch/lecture.md)
+1. [Synchronization.](lectures/08_IPC/lecture.md)
+1. [Inter-process communication.](lectures/09_IPC/lecture.md)
+1. [Users, groups, and permissions.](lectures/10_Permissions/lecture.md)
+1. [Virtual Machines.](lectures/11_VM/lecture.md)
+1. [Networking.](lectures/12_Networking/lecture.md)
+1. [Sockets.](lectures/13_Sockets/lecture.md)
+1. [High-level Languages and Operating System.](lectures/14_Python/lecture.md)
+1. [Workshop: Linux Kernel Modules](lectures/XX_Linux_Modules/lecture.md)
 
-Final test for Operating Systems is [here](part2os/final_test.md).
+Final test for Operating Systems is [here](lectures/final_test.md).
