@@ -1,4 +1,4 @@
-12. [[конспект](12sem-fs)][FS] - Работа с файлами и правами.
+1. [[конспект](12sem-fs)][FS] - Работа с файлами и правами.
 13. [[конспект](13sem-fs)][FS] - Mmap. + немного OOM.
 14. [[конспект](14sem-fs)][FS] - Fork.
 15. [[конспект](15sem-fs)][FS] - Exec. Pipe.
@@ -10,6 +10,11 @@
 21. [конспект][FS] - mutex
 22. [[конспект](22sem-fs/README.md)][C++] - std::thread, std::async, std::future, std::promise, std::lock_guard
 
+
+[Лекции в формате html](https://vladimirandropov.github.io/fa-os-practice/)
+
+
+## Дополнительный материал из курса MIT CAOS:
 ### Operating Systems and System Programming
 
 1. [Operating system architecture. Linux.](lectures/01_OS_Architecture/lecture.md)
