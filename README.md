@@ -15,7 +15,13 @@
  
 ~~3. [СЕТЕВОЕ ПРОГРАММИРОВАНИЕ](np/README.md)~~
 
-4. [Системное программирование в Файловой системе unix](fs/README.md)
+4. [Системное программирование в Файловой системе unix](fs/README.md)  [(Лекции в формате html)](https://vladimirandropov.github.io/fa-os-practice/)
+
+5. [Операционная система х86 с нуля](https://github.com/VladimirAndropov/fa-os-practice-yabloko)
+
+6. [Операционная система risc-V с нуля](https://github.com/VladimirAndropov/xv6-riscv)
+
+
 
 Материалы курса
 ---
